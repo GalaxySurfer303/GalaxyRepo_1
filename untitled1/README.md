@@ -1,4 +1,16 @@
-# Selenium Practical - Flight Reservation
+# Selenium Practical - Flight Reservation by Ashi-Bandara
+
+This repository was copied from https://github.com/ashi-bandara
+
+I use it for my personal - private learing and practice
+
+I have plans to develop this for more tests 
+
+Thanks for Ashi-Bandara
+
+
+orginal text:
+
 
 This repository contains a Selenium Java program (`Example2.java`) for automating a flight reservation process. The program utilizes the ChromeDriver located in the `drivers` folder.
 
